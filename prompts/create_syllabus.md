@@ -1,6 +1,8 @@
 recommended model: deep research
 recommended agent: none
 
+---
+
 Act as an academic curriculum designer. Create a comprehensive self-guided study syllabus based on the following University of Washington course information: 
 
 **Course Number:** [INSERT COURSE NUMBER, e.g., LING 200]

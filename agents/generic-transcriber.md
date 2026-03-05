@@ -93,3 +93,5 @@ The structure varies by concept. A concept with distinct sub-features gets a hea
 - **Depth:** Cover enough to understand the concept — a distilled, concept-centered reference, not a mirror of the source.
 - **Tone:** Academic but accessible. Write for someone learning the material.
 - **One concept per file.** Do not combine concepts even if the source covers them together.
+- **No Escaping:** Ensure all text, including long URLs and bracketed citations, remains strictly inside the triple-backtick code block (```). Do not end the code block until the very end of the References section.
+
