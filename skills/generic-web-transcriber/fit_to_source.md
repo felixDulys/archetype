@@ -1,6 +1,6 @@
 ---
 name: fit-transcriber-to-source
-description: "Customize the generic web-transcriber agent to a specific source and repository by discovering the source's structure, URL patterns, and the project's concept file layout. Use when onboarding the transcriber agent to a new book, textbook, or documentation site."
+description: "Customize the generic-web-transcriber agent to a specific source and repository by discovering the source's structure, URL patterns, and the project's concept file layout. Use when onboarding the transcriber agent to a new book, textbook, or documentation site."
 user_invocable: true
 ---
 
@@ -10,7 +10,7 @@ Take the generic web-transcriber agent template and produce a source-specific ve
 
 ## Inputs
 
-- The generic agent template at `agents/generic-transcriber.md`
+- The generic agent template at `agents/generic-web-transcriber.md`
 - A URL or name of the web-published source (book, textbook, documentation)
 - The current repository's codebase
 
